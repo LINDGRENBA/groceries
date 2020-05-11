@@ -1,0 +1,16 @@
+
+a:link {
+  color: fuchsia;
+}
+
+a:visited {
+  color: fuchsia
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: limegreen;
+}
