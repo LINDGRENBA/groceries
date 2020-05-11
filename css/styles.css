@@ -1,16 +1,4 @@
-
-a:link {
-  color: fuchsia;
+.final-list {
+  display: none;
 }
 
-a:visited {
-  color: fuchsia
-}
-
-a:hover {
-  color: yellow;
-}
-
-a:active {
-  color: limegreen;
-}
